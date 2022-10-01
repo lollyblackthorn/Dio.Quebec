@@ -1,0 +1,2 @@
+Link para downloading do Git: https://git-scm.com/download/win
+Utilizado para otimizar o uso do Git
